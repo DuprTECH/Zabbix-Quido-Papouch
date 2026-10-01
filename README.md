@@ -92,4 +92,4 @@ If this template saved you time and you're happy with my work, you can buy me a 
 
 ## License
 
-[GPL-3.0](LICENSE)
+[MIT](LICENSE)
